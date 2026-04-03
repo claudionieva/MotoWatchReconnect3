@@ -46,16 +46,6 @@
         android:gravity="center" />
 
     <Button
-        android:id="@+id/btnAsociar"
-        android:text="🔗  ASOCIAR WATCH"
-        android:layout_width="match_parent"
-        android:layout_height="56dp"
-        android:layout_marginBottom="16dp"
-        android:backgroundTint="#5c67e5"
-        android:textColor="#ffffff"
-        android:textSize="15sp" />
-
-    <Button
         android:id="@+id/btnIniciar"
         android:text="▶  INICIAR MONITOREO"
         android:layout_width="match_parent"
@@ -63,8 +53,7 @@
         android:layout_marginBottom="16dp"
         android:backgroundTint="#2ecc71"
         android:textColor="#ffffff"
-        android:textSize="15sp"
-        android:enabled="false" />
+        android:textSize="15sp" />
 
     <Button
         android:id="@+id/btnDetener"
